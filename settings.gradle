@@ -1,3 +1,4 @@
 rootProject.name='GitGithubRepro'
 include ':app'
 include ':javalib'
+include ':androidlib'
